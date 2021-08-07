@@ -36,6 +36,10 @@ I'm a student pursuing B.Tech in Computer Science And Engineering. I am also a w
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRish&show_icons=true&hide_border=true" />
 
 <br />
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=devrish&label=Profile%20views&color=1c8504&style=flat" alt="devrish" />
+
+<br />
 <br />
 
 [gmail]: mailto:rishavchatterjee1546@gmail.com

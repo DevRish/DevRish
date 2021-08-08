@@ -30,6 +30,8 @@ I'm a student pursuing B.Tech in Computer Science And Engineering. I am also a w
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="HTML" width="45px"/>][mongo]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="HTML" width="45px"/>][express]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="HTML" width="45px"/>][android]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="HTML" width="45px"/>][mysql]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="HTML" width="45px"/>][git]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="HTML" width="45px"/>][linux]
 
 ### 📊 My Dev Statistics:
@@ -57,6 +59,8 @@ I'm a student pursuing B.Tech in Computer Science And Engineering. I am also a w
 [mongo]: https://docs.mongodb.com/
 [express]: https://expressjs.com/
 [android]: https://www.android.com/intl/en_in/what-is-android/
+[mysql]: https://www.mysql.com/
+[git]: https://git-scm.com/
 [linux]: https://en.wikipedia.org/wiki/Linux
 
 <!--

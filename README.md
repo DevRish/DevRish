@@ -45,7 +45,7 @@ I'm a student pursuing B.Tech in Computer Science And Engineering. I am also a w
 <br />
 
 [gmail]: mailto:rishavchatterjee1546@gmail.com
-[linkedin]: https://www.linkedin.com/in/rishav-chattopadhya-833850204/
+[linkedin]: https://www.linkedin.com/in/rishav-chattopadhyay-833850204/
 [codechef]: https://www.codechef.com/users/rishav_2020
 [codeforces]: https://codeforces.com/profile/RishavChattopadhya
 [cpp]: https://en.cppreference.com/w/cpp/language
